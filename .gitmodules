@@ -1,0 +1,6 @@
+[submodule "evaluation/tools/ocrevalUAtion"]
+	path = evaluation/tools/ocrevalUAtion
+	url = https://github.com/impactcentre/ocrevalUAtion.git
+[submodule "evaluation/tools/review_object_detection_metrics"]
+	path = evaluation/tools/review_object_detection_metrics
+	url = https://github.com/rafaelpadilla/review_object_detection_metrics.git
