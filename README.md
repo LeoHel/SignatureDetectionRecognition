@@ -1,6 +1,6 @@
 # Recognizing Book Signatures using a Mobile RGB-Camera
 
-This repository contains the complete code fore the recognition of book signatures using a mobile RGB Camera. Code is provided in Jupyter notebooks. The detection and recognition is currently trained on the format used by the library of the University of Applied Sciences W ̈urzburg-Schweinfurt. The used standard is "Regensburger Verbundklassifikation (RVK)".
+This repository contains the complete code for the recognition of book signatures using a mobile RGB Camera. Code is provided in Jupyter notebooks. The detection and recognition is currently trained on the format used by the library of the University of Applied Sciences W ̈urzburg-Schweinfurt. The used standard is "Regensburger Verbundklassifikation (RVK)".
 
 
 ## Hardware Requirements
